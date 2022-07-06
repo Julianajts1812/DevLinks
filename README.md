@@ -6,6 +6,8 @@ Desenvolvido na Maratona Explorer 2.0 realizada por Rocketseat
 - CSS
 
 ## Mudanças que realizei:
-&check; - Troca de links e inserção de novos
+&check; - Troca de links
+
+&check; - Outros links
 
 &check; - Aplicação da classe tema para dark-pink
